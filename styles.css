@@ -529,13 +529,13 @@ h3 {
   .header-nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 8px;
     justify-content: flex-end;
   }
 
   .nav-link,
   .btn-header {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .btn-header {
