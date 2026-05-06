@@ -510,6 +510,10 @@ h3 {
     gap: 12px;
   }
 
+  .header-logo img {
+    width: 34px;
+  }
+
   .header-nav {
     gap: 12px;
   }
