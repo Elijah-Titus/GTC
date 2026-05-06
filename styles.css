@@ -510,14 +510,20 @@ h3 {
     gap: 12px;
   }
 
+  .header-logo {
+    flex: 0 1 auto;
+  }
+
   .header-logo img {
     width: 34px;
   }
 
   .header-logo span {
+    display: inline-block;
     white-space: normal;
-    max-width: 180px;
+    max-width: 120px;
     line-height: 1.1;
+    word-break: break-word;
   }
 
   .header-nav {
